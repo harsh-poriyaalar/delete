@@ -3,8 +3,6 @@ int main()
 {
 	int n, target, q, r, count = 0;
 	int binary[count];
-	//int *p;
-	//p = binary;
 	printf("Enter decimal: ");
 	scanf("%d", &n);
 	target = n;
